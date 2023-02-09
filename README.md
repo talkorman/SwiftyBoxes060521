@@ -4,6 +4,12 @@ Visual calculation application for arranging packaging in shipping containers wi
 link to the app:
 https://apps.apple.com/il/app/swifty-boxes/id1565388121?l=iw
 
+link to demonstration of the simulation on iphone:
+https://www.youtube.com/watch?v=vvWxUZvBrkQ
+
+link to demonstration of the web app:
+https://www.youtube.com/watch?v=DvP-H1Tc5lQ
+
 link for tutorial:
 https://swiftyboxesspecs.herokuapp.com
 
